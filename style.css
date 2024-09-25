@@ -50,7 +50,7 @@ body {
     /* 撐開內邊距 */
     padding: 3%;
     /* 陰影 */
-    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 1px 1px rgba(98, 63, 154, 0.2);
     /* 外框 */
     border: 1px solid #51515130;
     /* 變形, 幅度為 .3rem (圓角矩形) */
@@ -67,4 +67,17 @@ body {
     border: 1px solid #51515150;
     /* 陰影 */
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.wrapper .btna{
+    background-color: #e3351f;
+    color: rgb(6, 13, 8);
+}.wrapper .btnb{
+    background-color: #cb570b;
+    color: rgb(6, 13, 8);
+}.wrapper .btnc{
+    background-color: #c2bf06;
+    color: rgb(6, 13, 8);
+}.wrapper .btnd{
+    background-color: #09c109;
+    color: rgb(6, 13, 8);
 }
